@@ -46,3 +46,25 @@ This is an attempt to implement all kind of widely used Algorithms and Data Stru
     <li>Priority Queue implementation</li>
     <li>Reverse first k elements of the queue</li>
   </ul>
+
+<li><h3>Tree</h3></li>
+<hr/>
+  <ul>
+  <b><a href="https://github.com/md0011/Data-Structures-Algorithms/tree/main/Binary%20Tree">Binary Tree</a></b>
+    <li>Create a binary tree and print In-Order,Pre-Order and Post-Order Traversal</li>
+    <li>Create a binary tree from array</li>
+    <li>Convert a binary tree into its mirror tree</li>
+    <li>Count the number of leaf and non-leaf nodes in a binary tree</li>
+    <li>Print all paths to leaves</li>
+    <li>Print binary tree with level order traversal</li>
+    <li>Write iterative version of inorder traversal</li><br/>
+    <b><a href="https://github.com/md0011/Data-Structures-Algorithms/tree/main/Binary%20Search%20Tree">Binary Search Tree</a></b>
+    <li>Create Binary Search Tree and print inorder traversal</li>
+    <li>Deletion from Binary Search tree</li>
+    <li>Given binary tree is binary search tree or not</li>
+    <li>Height of BST</li>
+    <li>Print binary tree with level order traversal</li>
+    <li>Search in BST</li>
+  </ul>
+
+  
