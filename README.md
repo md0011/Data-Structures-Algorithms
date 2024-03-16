@@ -67,4 +67,22 @@ This is an attempt to implement all kind of widely used Algorithms and Data Stru
     <li>Search in BST</li>
   </ul>
 
+   <li><h3><a href="https://github.com/md0011/Data-Structures-Algorithms/tree/main/Heap">Heap</a></h3></li>
+   <hr/>
+  <ul>
+    <li>Insertion and deletion in max-heap.</li>
+    <li>Check if a given tree is max-heap or not</li>
+    <li>Convert min Heap to max Heap</li>
+    <li>Sort Array using heap</li>
+  </ul>
+  
+  <li><h3><a href="https://github.com/md0011/Data-Structures-Algorithms/tree/main/Graphs">Graphs</a></h3></li>
+<hr/>
+  <ul>
+    <li>Breadth First Traversal of Graph</li>
+    <li>Depth First Traversal of Graph</li>
+  </ul>
+</ul>
+
+
   
