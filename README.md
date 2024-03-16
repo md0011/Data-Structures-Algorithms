@@ -23,3 +23,26 @@ This is an attempt to implement all kind of widely used Algorithms and Data Stru
     <li>Reverse a doubly linked list</li>
   </ul>
   
+<li><h3><a href="https://github.com/md0011/Data-Structures-Algorithms/tree/main/Stack">Stack</a></h3></li>
+  <hr/>
+  <ul>
+    <li>Stack implementation</li>
+    <li>Evaluate the postfix expression using Stack.</li>
+    <li>Evaluate the prefix expression using Stack</li>
+    <li>Get minimum element from stack</li>
+    <li>Reverse a string using stack</li>
+    <li>Stack Application (Balanced parenthesis)</li>
+    <li>Infix to Postfix conversion </li>
+    <li>Minimum bracket reversals for balanced expression</li>
+  </ul>
+  
+   <li><h3><a href="https://github.com/md0011/Data-Structures-Algorithms/tree/main/Queue">Queue</a></h3></li>
+   <hr/>
+  <ul>
+    <li>Queue implementation</li>
+    <li>Reverse a queue.</li>
+    <li>Circular Queue implementation</li>
+    <li>Implement Queue Using Two Stacks</li>
+    <li>Priority Queue implementation</li>
+    <li>Reverse first k elements of the queue</li>
+  </ul>
