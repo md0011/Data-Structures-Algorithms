@@ -3,7 +3,6 @@ This is an attempt to implement all kind of widely used Algorithms and Data Stru
 
 ## Content
 
-
 <ul>
   <li><h3>Linked List</h3></li>
   <hr/>
@@ -95,7 +94,6 @@ This is an attempt to implement all kind of widely used Algorithms and Data Stru
     <li>Merge Sort</li>
     <li>Quick Sort</li>
     <li>Count Sort</li>
-    <li>Radix Sort</li>
-    
+    <li>Radix Sort</li>    
   </ul>
 </ul>
