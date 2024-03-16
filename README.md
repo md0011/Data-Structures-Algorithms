@@ -84,5 +84,18 @@ This is an attempt to implement all kind of widely used Algorithms and Data Stru
   </ul>
 </ul>
 
-
-  
+### Algorithms
+<hr/>
+<ul>
+  <li><h3><a href="https://github.com/md0011/Data-Structures-Algorithms/tree/main/Sorting">Sorting</a></h3></li>
+  <ul>
+    <li>Bubble Sort</li>
+    <li>Insertion Sort</li>
+    <li>Selectin Sort</li>
+    <li>Merge Sort</li>
+    <li>Quick Sort</li>
+    <li>Count Sort</li>
+    <li>Radix Sort</li>
+    
+  </ul>
+</ul>
